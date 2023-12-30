@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on too much... 
 - 🌱 I’m currently learning full stack deployment
-- 👯 I’m looking to collaborate @ ![:coffee: and Code KC](https://www.meetup.com/coffee-and-code/)
+- 👯 I’m looking to collaborate @ ![Coffee and Code KC](https://www.meetup.com/coffee-and-code/)
 - 🤔 I’m looking for help with connecting and mentoring others
 - 💬 Ask me about learning to Code
 - 📫 How to reach me: phill_hodges@hotmail.com
